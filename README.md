@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trying to save the word, one bit at a time.
 
 <!--
 **pambrose/pambrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
