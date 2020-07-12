@@ -1,5 +1,9 @@
 ![](https://enydgid6isrexyq.m.pipedream.net)
+
 ### Trying to save the word, one bit at a time.
+
+* Information on tracking profile views is [here](https://rushter.com/blog/github-profile-markdown/). 
+* An easy implementation is described [here](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme).
 
 <!--
 ![](https://pambrose.goatcounter.com/count?p=/git-homepage)
