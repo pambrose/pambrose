@@ -1,6 +1,6 @@
-![](https://pambrose.goatcounter.com/count?p=/git-homepage)
-
 ### Trying to save the word, one bit at a time.
+
+![](https://pambrose.goatcounter.com/count?p=/git-homepage)
 
 
 <!--
