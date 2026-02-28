@@ -1,22 +1,22 @@
+## Trying to save the world, one bit at a time.
+
+---
+
 ![](https://enydgid6isrexyq.m.pipedream.net)
 
-### Trying to save the world, one bit at a time.
+![GitHub Stats](https://github-readme-stats-eta-smoky-87.vercel.app/api?username=pambrose&show_icons=true&theme=dark)
 
-* Information on tracking profile views is [here](https://rushter.com/blog/github-profile-markdown/). 
-* An easy implementation is described [here](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme).
+![Top Languages](https://github-readme-stats-eta-smoky-87.vercel.app/api/top-langs/?username=pambrose&layout=compact&theme=dark)
 
-<!--
+![GitHub Streak](https://streak-stats.demolab.com/?user=pambrose&theme=dark)
+
+---
 ![](https://pambrose.goatcounter.com/count?p=/git-homepage)
-**pambrose/pambrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://pambrose.goatcounter.com/counter/git-homepage.svg)
+---
 
-Here are some ideas to get you started:
+* Information on tracking profile views is [here](https://rushter.com/blog/github-profile-markdown/).
+* An easy implementation is described [here](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme).
+* [GoatCounter](https://www.goatcounter.com)
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
