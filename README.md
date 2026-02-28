@@ -17,6 +17,6 @@
 
 * Information on tracking profile views is [here](https://rushter.com/blog/github-profile-markdown/).
 * An easy implementation is described [here](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme).
-* [GoatCounter](https://www.goatcounter.com)
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+* [GoatCounter](https://www.goatcounter.com)
 
