@@ -6,8 +6,6 @@
 
 ![GitHub Stats](https://github-readme-stats-eta-smoky-87.vercel.app/api?username=pambrose&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-eta-smoky-87.vercel.app/api/top-langs/?username=pambrose&layout=compact&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pambrose&theme=dark)
 
 ---
