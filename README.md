@@ -6,9 +6,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pambrose&theme=dark)
 
-* Information on tracking profile views is [here](https://rushter.com/blog/github-profile-markdown/).
-* An easy implementation is described [here](https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme).
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+[//]: # (* Information on tracking profile views is [here]&#40;https://rushter.com/blog/github-profile-markdown/&#41;.)
+
+[//]: # (* An easy implementation is described [here]&#40;https://pipedream.com/@tod/github-profile-view-counter-p_G6CNmN/readme&#41;.)
+
+[//]: # (* [GitHub Readme Stats]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 ![](https://pambrose.goatcounter.com/count?p=/git-homepage)
 
